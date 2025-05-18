@@ -1,14 +1,13 @@
 <!-- Right-aligned image with spacing -->
-<br>
-
-<img align="right" src="https://cdn.discordapp.com/attachments/1006839087925313618/1372723285644546139/IMG_1829.gif?ex=682b1b6f&is=6829c9ef&hm=a0dab7008129e04dd33601592a73e718d3d580c897e0792dd967564494c5091b&" alt="coding" width="280" style="margin-top: 60px; margin-bottom: 10px;" />
-
 # 💫 About Me:
+<!-- Right-aligned image with spacing -->
+<br>
+<img align="right" src="https://cdn.discordapp.com/attachments/1006839087925313618/1372723285644546139/IMG_1829.gif?ex=682b1b6f&is=6829c9ef&hm=a0dab7008129e04dd33601592a73e718d3d580c897e0792dd967564494c5091b&" alt="coding" width="280" style="margin-top: 50px; margin-bottom: 10px;" />
 
 ### 👋 Hi, I'm Konstantinos (aka Crime)!
 
-I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with  
-1 year of experience building applications and solving real-world problems.
+*I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with  
+1 year of experience building applications and solving real-world problems.*
 
 🌍 **Based in Thessaloniki, Greece**  
 💻 I specialize in developing full-stack web apps and advanced, feature-rich Discord bots.  
@@ -18,8 +17,8 @@ I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with
 
 ---
 
-🚀 **Check out my pinned projects below!**  
-These are projects I'm working on, and they’ll be available here as soon as they’re ready for release. Feel free to follow my progress!
+### 🚀 Check out my pinned projects below!  
+*I’ve already published a few projects, and I’m currently working on several new ones that will be available here soon. More exciting stuff is on the way — stay tuned!*
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
