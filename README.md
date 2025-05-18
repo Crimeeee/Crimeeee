@@ -6,18 +6,18 @@
 
 ### 👋 Hi, I'm Konstantinos (aka Crime)!
 
-> I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with 1 year of experience building applications and solving real-world problems.
+I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with 1 year of experience building applications and solving real-world problems.
 
 🌍 **Based in Thessaloniki, Greece**  
-💻 I specialize in developing full-stack web apps and advanced, feature-rich Discord bots.  
-🌱 Currently learning **Lua** and **PHP**, while constantly expanding my knowledge in new technologies.  
-⚙️ I love turning ideas into clean, functional, and efficient code.  
-📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/konstantinos-karafylles-2171b130a/) or email me at [me@karafylles.me](mailto:me@karafylles.me) — I'm always open to collaboration or a quick tech chat!
+💻 I specialize in building robust full-stack web applications and advanced, feature-rich Discord bots.  
+🌱 I'm currently focused on expanding my expertise in **Lua** and **PHP**, while continuously exploring modern technologies and best practices.  
+⚙️ I’m passionate about turning complex ideas into clean, scalable, and efficient code.  
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinos-karafylles-2171b130a/) or reach out via email at [me@karafylles.me](mailto:me@karafylles.me) — I’m always open to collaboration or a good tech conversation.
 
 ---
 
 ### 🚀 Check out my pinned projects below!  
-*I’ve already published a few projects, and I’m currently working on several new ones that will be available here soon. More exciting stuff is on the way — stay tuned!*
+I’ve already published a few projects, and I’m currently working on several new ones that will be available here soon. More exciting stuff is on the way — stay tuned!
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
