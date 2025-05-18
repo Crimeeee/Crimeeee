@@ -5,7 +5,7 @@
 
 ### 👋 Hi, I'm Konstantinos (aka Crime)!
 
-🔗 I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with  
+I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with  
 1 year of experience building applications and solving real-world problems.
 
 🌍 **Based in Thessaloniki, Greece**  
