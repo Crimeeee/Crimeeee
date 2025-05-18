@@ -1,4 +1,5 @@
 <!-- Right-aligned image with spacing -->
+<br>
 <img align="right" src="https://cdn.discordapp.com/attachments/1006839087925313618/1372723285644546139/IMG_1829.gif?ex=682b1b6f&is=6829c9ef&hm=a0dab7008129e04dd33601592a73e718d3d580c897e0792dd967564494c5091b&" alt="coding" width="350" style="margin-top: 10px; margin-bottom: 10px;" />
 
 # 💫 About Me:
