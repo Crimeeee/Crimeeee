@@ -39,6 +39,6 @@ I’ve already published a few projects, and I’m currently working on several 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Crimeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Crimeeee&icon=9&color=0)](https://visitcount.itsvg.in)
+![👁️ Profile Views](https://img.shields.io/badge/Profile%20Views-123-blueviolet?style=flat-square&logo=github)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
