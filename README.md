@@ -6,18 +6,17 @@ I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with 1 yea
 
 ![Design and Development](https://github.com/Crimeeee/Crimeeee/blob/main/crimedev.gif)
 
+## 👨‍💻 About Me:
 🌍 **Based in Thessaloniki, Greece**  
 💻 I specialize in building robust full-stack web applications and advanced, feature-rich Discord bots.  
 🌱 I'm currently focused on expanding my expertise in **Lua** and **PHP**, while continuously exploring modern technologies and best practices.  
 ⚙️ I’m passionate about turning complex ideas into clean, scalable, and efficient code.  
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinos-karafylles-2171b130a/) or reach out via email at [me@karafylles.me](mailto:me@karafylles.me) — I’m always open to collaboration or a good tech conversation.
 
----
-
-### 🚀 Check out my pinned projects below!  
+## 🚀 Check out my pinned projects below!  
 I’ve already published a few projects, and I’m currently working on several new ones that will be available here soon. More exciting stuff is on the way — stay tuned!
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,7 +29,7 @@ I’ve already published a few projects, and I’m currently working on several 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Crimeeee&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
 
