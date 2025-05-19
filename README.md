@@ -30,14 +30,21 @@ I’ve already published a few projects, and I’m currently working on several 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=Crimeeee&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-<!-- GitHub Streak -->
-![](https://nirzak-streak-stats.vercel.app/?user=Crimeeee&theme=aura&hide_border=false)
+<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Crimeeee&theme=aura&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crimeeee&theme=aura&hide_border=false&layout=compact&langs_count=8)
+<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimeeee&layout=compact&theme=aura&hide_border=false&langs_count=6" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
+  <img height="160" src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&hide_border=false" alt="GitHub Streak" />
+</a>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Crimeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
