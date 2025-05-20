@@ -46,7 +46,7 @@ I’ve already published a few projects, and I’m currently working on several 
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Crimeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
