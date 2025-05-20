@@ -30,21 +30,21 @@ I’ve already published a few projects, and I’m currently working on several 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
+<a href="https://github.com/Crimeeee">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Crimeeee&theme=aura&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
+<a href="https://github.com/Crimeeee">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimeeee&layout=compact&theme=aura&hide_border=false&langs_count=6" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
-  <img height="160" src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&hide_border=false" alt="GitHub Streak" />
+<a href="https://github.com/Crimeeee">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Crimeeee&theme=aura&hide_border=false" alt="GitHub Streak" />
 </a>
 
-</div>
+</p>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Crimeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
