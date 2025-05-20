@@ -41,10 +41,11 @@ I’ve already published a few projects, and I’m currently working on several 
 </a>
 
 <a href="https://github.com/Crimeeee" style="display:inline-block; margin: 10px;">
-  <img height="160" src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&hide_border=false" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app/?user=Crimeeee&theme=aura&hide_border=false" alt="GitHub Streak Stats" />
 </a>
 
 </div>
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Crimeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
