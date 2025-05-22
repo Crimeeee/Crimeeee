@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with 1 yea
 ## 👨‍💻 About Me:
 🌍 **Based in Thessaloniki, Greece**  
 💻 I specialize in building robust full-stack web applications and advanced, feature-rich Discord bots.  
-🌱 I'm currently focused on expanding my expertise in **Lua** and **PHP**, while continuously exploring modern technologies and best practices.  
+🌱 I'm currently focused on expanding my expertise in **Lua** and **Vue**, while continuously exploring modern technologies and best practices.  
 ⚙️ I’m passionate about turning complex ideas into clean, scalable, and efficient code.  
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinos-karafylles-2171b130a/) or reach out via email at [me@karafylles.me](mailto:me@karafylles.me) — I’m always open to collaboration or a good tech conversation.
 
