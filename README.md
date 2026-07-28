@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Konstantinos Karafylles
 
-### Full Stack Developer • Discord Developer • Thessaloniki, Greece 🇬🇷
+### Full Stack Developer • Discord Developer • Thessaloniki, Greece
 
 I'm a **Full Stack Developer** passionate about building scalable web applications, backend systems, and advanced Discord applications. I enjoy solving real-world problems by writing clean, maintainable, and efficient code.
 
@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** passionate about building scalable web applicatio
 ## 👨‍💻 About Me
 
 - 🌍 Based in **Thessaloniki, Greece**
-- 🇬🇷 Recently completed my mandatory military service and currently **open to full-time opportunities**.
+- ✅ Recently completed my mandatory military service and currently **open to full-time opportunities**.
 - 💻 I specialize in developing full-stack web applications, REST APIs, and feature-rich Discord bots.
 - 🌱 Currently expanding my expertise in **Vue.js** and **Lua**, while continuously exploring modern technologies and software development best practices.
 - ⚙️ I enjoy designing scalable systems, optimizing performance, and turning complex ideas into reliable software.
