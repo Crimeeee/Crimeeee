@@ -8,6 +8,7 @@ I'm a passionate **Full Stack Developer** & **Discord Bot Developer** with 1 yea
 
 ## 👨‍💻 About Me:
 🌍 **Based in Thessaloniki, Greece**  
+🎖️ Having completed my mandatory Military Service, I'm now fully focused on software development and open to new opportunities.
 💻 I specialize in building robust full-stack web applications and advanced, feature-rich Discord bots.  
 🌱 I'm currently focused on expanding my expertise in **Lua** and **Vue**, while continuously exploring modern technologies and best practices.  
 ⚙️ I’m passionate about turning complex ideas into clean, scalable, and efficient code.  
