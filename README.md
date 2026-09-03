@@ -23,7 +23,7 @@ I enjoy turning ideas into reliable software, solving real-world problems, and w
 
 * 🔨 Building personal and open-source projects
 * ⚡ Improving **backend architecture, API design, and software scalability**
-* 🌱 Learning **Vue.js** and **Lua**
+* 🌱 Learning **Vue.js** 
 * 📚 Exploring modern technologies and software development best practices
 * 💼 Open to **Full Stack Developer opportunities**
 
