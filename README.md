@@ -1,65 +1,83 @@
-# 👋 Hi, I'm Konstantinos Karafylles 
+<!-- github.com/Crimeeee — Full Stack Developer profile -->
 
-### Full Stack Developer • Frontend • Backend • Discord Developer • Thessaloniki, Greece
+<div align="center">
 
-I'm a **Full Stack Developer** focused on building modern web applications, Backend systems, REST APIs, and interactive digital experiences. I work across both **Frontend and Backend development**, while also having experience building advanced Discord applications and bots.
+# 👋 Hey, I'm Konstantinos
 
-I enjoy turning ideas into reliable software, solving real-world problems, and writing clean, maintainable, and efficient code.
+**Full Stack Developer** — *Frontend · Backend · Discord Apps*
+📍 Thessaloniki, Greece
 
-![Design and Development](https://github.com/Crimeeee/Crimeeee/blob/main/crimedev.gif)
+<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="250"/>
 
-## 👨‍💻 About Me
+[![Role](https://img.shields.io/badge/Frontend%20Developer-Employed-0a66c2?style=for-the-badge)](#-about-me)
+[![Stack](https://img.shields.io/badge/Full%20Stack-skills-2ea44f?style=for-the-badge)](#-about-me)
+[![Discord](https://img.shields.io/badge/Discord-Experienced-5865F2?style=for-the-badge&logo=discord)](#-about-me)
 
-* 🌍 Based in **Thessaloniki, Greece**
-* ✅ Recently completed my mandatory military service and currently **open to full-time opportunities**
-* 💻 Focused on **Full Stack Development**, working across both frontend and backend
-* ⚙️ Experienced in building **web applications, REST APIs, backend systems, and feature-rich Discord applications**
-* 🧩 Particularly interested in **backend architecture, APIs, databases, and scalable systems**
-* 🌱 Currently expanding my expertise in **Vue.js** and **PHP**
-* 🚀 Passionate about building projects, solving problems, and continuously improving my development skills
-* 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinos-karafylles-2171b130/) or reach out via email at [me@karafylles.me](mailto:me@karafylles.me).
+</div>
 
-## 🚀 Current Focus
+---
 
-* 🔨 Building personal and open-source projects
-* ⚡ Improving **backend architecture, API design, and software scalability**
-* 🌱 Learning **Vue.js** 
-* 📚 Exploring modern technologies and software development best practices
-* 💼 Open to **Full Stack Developer opportunities**
+## 🧑‍💻 About me
 
-## 🚀 Featured Projects
+I build **modern web applications, backend systems, REST APIs, and feature-rich Discord applications** — turning ideas into reliable, maintainable software that solves real problems.
 
-Check out my pinned repositories below! My projects showcase my experience across **frontend development, backend systems, APIs, databases, and Discord applications**.
+- 🌍 Based in **Thessaloniki, Greece** — working full-time as a **Frontend Developer**
+- ✅ Finished my military service 
+- 🔭 Deeply interested in **backend architecture, API design, databases, and scalability**
+- 🌱 Currently sharpening my skills in **Vue.js** and **PHP**
+- 🚀 Always building, shipping, and learning
 
-Each project reflects my approach to writing clean code, solving real-world problems, and continuously improving my development skills. More projects are currently in development and will be published soon.
+## 🚀 Current focus
 
-## 💻 Tech Stack
+- Building personal and **open-source** projects
+- Improving **backend architecture** and **API design**
+- Learning **Vue.js** & modern best practices
+- Open to **Full Stack Developer** roles and collaborations
 
-### Languages
+## 📌 Featured projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge\&logo=lua)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+> Pinned below 👇 These show how I write **clean code** and approach **frontend, backend, APIs, databases, and Discord apps**.
 
-### Frontend
+| Repo | What it does | Stack |
+|:-----|:-------------|:------|
+| *(add yours)* | Short, real value it delivers | Node.js · MySQL |
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+*More projects are in development and will be published soon.*
 
-### Backend & Database
+## 🛠️ Tech stack
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+<div align="center">
 
-### Tools
+**Languages**
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge\&logo=npm)
-![OVH](https://img.shields.io/badge/OVH-black?style=for-the-badge\&logo=ovh)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 
-## 📊 GitHub Stats
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
+![OVH](https://img.shields.io/badge/OVH-black?style=for-the-badge&logo=ovh)
+
+</div>
+
+---
+
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -79,6 +97,16 @@ Each project reflects my approach to writing clean code, solving real-world prob
 
 ---
 
+## 📫 Let's connect
+
+💼 Open to: **Full Stack Developer roles** · Collaborations · Freelance
+
 <p align="center">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories or get in touch if you'd like to collaborate. 🚀</i>
+  <a href="https://www.linkedin.com/in/konstantinos-karafylles-2171b130/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/-Email-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/Crimeeee"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — explore my repos or reach out to collaborate. 🚀</i></p>
