@@ -41,6 +41,8 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 | Repo | What it does | Stack |
 |:-----|:-------------|:------|
 | [MyBot](https://github.com/Crimeeee/Infinity-Manager) | Infinity Emoji Manager is a powerful and easy-to-use emoji management bot for Discord servers. | JavaScript |
+| [MyNotes](https://github.com/Crimeeee/MyNotes) | Every user has their own private notebook: register, log in, then create, edit, search and delete notes. | PHP 8, MariaDB, HTML/CSS/JS |
+
 
 *More projects are in development and will be published soon.*
 
