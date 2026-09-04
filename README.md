@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Konstantinos
+# 👋 Hey, I'm Konstantinos Karafylles
 
 **Full Stack Developer** — *Frontend · Backend · Discord Apps*
 📍 Thessaloniki, Greece
 
-<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="250"/>
+<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="1100"/>
 
 [![Role](https://img.shields.io/badge/Frontend%20Developer-Employed-0a66c2?style=for-the-badge)](#-about-me)
 [![Stack](https://img.shields.io/badge/Full%20Stack-skills-2ea44f?style=for-the-badge)](#-about-me)
