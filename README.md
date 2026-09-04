@@ -40,7 +40,7 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 | Repo | What it does | Stack |
 |:-----|:-------------|:------|
-| [MyBot](https://github.com/Crimeeee/Infinity-Manager) | Short, real value it delivers | Node.js · MySQL |
+| [MyBot](https://github.com/Crimeeee/Infinity-Manager) | Infinity Emoji Manager is a powerful and easy-to-use emoji management bot for Discord servers. | Node.js · JavaScript |
 
 *More projects are in development and will be published soon.*
 
