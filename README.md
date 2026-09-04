@@ -40,7 +40,7 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 | Repo | What it does | Stack |
 |:-----|:-------------|:------|
-| *(add yours)* | Short, real value it delivers | Node.js · MySQL |
+| [MyBot](https://github.com/Crimeeee/Infinity-Manager) | Short, real value it delivers | Node.js · MySQL |
 
 *More projects are in development and will be published soon.*
 
