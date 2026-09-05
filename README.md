@@ -79,20 +79,12 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 ---
 
-## 📊 GitHub activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
 <a href="https://github.com/Crimeeee">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Crimeeee&theme=aura&border_radius=12&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Crimeeee">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimeeee&layout=compact&theme=aura&langs_count=8" />
-</a>
-
-<a href="https://github.com/Crimeeee">
-  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Crimeeee&theme=aura" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&border_radius=12" />
 </a>
 
 </div>
