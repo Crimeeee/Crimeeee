@@ -114,14 +114,9 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 <br/>
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Crimeeee&show_icons=true&theme=aura&border_radius=12&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crimeeee&layout=compact&theme=aura&border_radius=12&hide_border=true" alt="Top Languages" height="165"/>
-
-<br/><br/>
 
 <a href="https://github.com/Crimeeee">
   <img src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&border_radius=12&hide_border=true" alt="GitHub Streak" height="165"/>
