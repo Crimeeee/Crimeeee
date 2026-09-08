@@ -129,6 +129,12 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 ## 🐍 Contribution Graph
 
 <div align="center">
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-414-246297?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
