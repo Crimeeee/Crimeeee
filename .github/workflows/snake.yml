@@ -18,9 +18,8 @@ jobs:
         with:
           github_user_name: Crimeeee
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23f0abfc&color_dots=%23161b22,%233b0764,%237e22ce,%23c026d3,%23f0abfc
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23f0abfc&color_dots=%23161b22,%233b0764,%237e22ce,%23c026d3,%23f0abfc
-
+            dist/github-contribution-grid-snake.svg?color_snake=%23f0abfc&color_dots=%2330363d,%233b0764,%237e22ce,%23c026d3,%23f0abfc
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23f0abfc&color_dots=%2330363d,%233b0764,%237e22ce,%23c026d3,%23f0abfc
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
