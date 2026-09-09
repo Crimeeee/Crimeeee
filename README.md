@@ -16,7 +16,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/konstantinos-karafylles-2171b130/">
+<a href="https://www.linkedin.com/in/konstantinos-karafylles/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:me@karafylles.me">
