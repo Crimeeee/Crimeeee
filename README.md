@@ -145,7 +145,7 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 💼 Open to: **Full Stack Developer roles** · Collaborations · Freelance
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/konstantinos-karafylles-2171b130/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/-Email-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/Crimeeee"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
