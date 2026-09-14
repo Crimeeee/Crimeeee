@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%"/>
 
-# Hi, I'm Konstantinos Karafylles 👋
+# Hi, I'm Konstantinos 👋
 
 ### Full Stack Developer — Frontend · Backend · Discord Apps
 📍 Thessaloniki, Greece
