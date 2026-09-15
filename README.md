@@ -116,10 +116,6 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 <br/>
 
-<p align="center"><a href="https://github.com/Crimeeee"><img src="https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1" alt="Profile Views"/></a></p>
-
-<br/>
-
 ## 📫 Let's connect
 
 💼 Open to: **Full Stack Developer roles** · Collaborations · Freelance
@@ -133,3 +129,5 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 <br/>
 
 <p align="center"><i>Thanks for stopping by — explore my repos or reach out to collaborate. 🚀</i></p>
+
+<p align="center"><a href="https://github.com/Crimeeee"><img src="https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1" alt="Profile Views"/></a></p>
