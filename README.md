@@ -87,11 +87,11 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
       <a href="https://github.com/Crimeeee/GiveawayManager"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Crimeeee/myPortfolio">🚀 myPortfolio</a></h3>
-      <p>Personal portfolio site built with Vue — work in progress.</p>
-      <img src="https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js" alt="Vue"/>
+      <h3><a href="https://github.com/Crimeeee/Leaderboard">🏆 Leaderboard</a></h3>
+      <p>GTA RP operations leaderboard — track players, activity and rankings.</p>
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" alt="JavaScript"/>
       <br/><br/>
-      <a href="https://github.com/Crimeeee/myPortfolio"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+      <a href="https://github.com/Crimeeee/Leaderboard"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
   </tr>
 </table>
