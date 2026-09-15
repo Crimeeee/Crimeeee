@@ -1,8 +1,6 @@
 <!-- github.com/Crimeeee -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1)](https://github.com/Crimeeee)
-
 <img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%"/>
 
 ### Hey, I'm Konstantinos 👋
@@ -115,6 +113,10 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 ![Contribution Snake](https://raw.githubusercontent.com/Crimeeee/Crimeeee/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+<br/>
+
+<p align="center"><a href="https://github.com/Crimeeee"><img src="https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1" alt="Profile Views"/></a></p>
 
 <br/>
 
