@@ -1,30 +1,23 @@
+<!-- github.com/Crimeeee -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%" style="border-radius: 12px;"/>
 
 ### Hey, I'm **Konstantinos** 👋
 
-**Frontend Developer** · building for the web, one commit at a time.
-
-```
-> coding — debugging — shipping — repeat
-```
-
-[![Frontend](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
-[![Full Stack](https://img.shields.io/badge/Full_Stack-Always_Learning-2ea44f?style=for-the-badge&labelColor=0d1117)](#-about-me)
-[![Discord](https://img.shields.io/badge/Discord-Apps-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](#-about-me)
-[![Based in](https://img.shields.io/badge/Thessaloniki-%F0%9F%93%8D-e74c3c?style=for-the-badge&labelColor=0d1117)](#-about-me)
-
-</div>
+**Frontend Developer** · Thessaloniki, Greece
 
 <br/>
 
-<div align="center">
-
 [![Frontend](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
 [![Full Stack](https://img.shields.io/badge/Full_Stack-Always_Learning-2ea44f?style=for-the-badge&labelColor=0d1117)](#-about-me)
 [![Discord](https://img.shields.io/badge/Discord-Apps-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](#-about-me)
-[![Based in](https://img.shields.io/badge/Thessaloniki-📍-e74c3c?style=for-the-badge&labelColor=0d1117)](#-about-me)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/Email-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
@@ -32,26 +25,14 @@
 
 ---
 
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/Email-me%40karafylles.me-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
-<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/Repos-24292e?style=for-the-badge&logo=github" alt="Repositories"/></a>
-
-</div>
-
-<br/>
 ## 🧑‍💻 About me
 
-I'm a **Frontend Developer** based in **Thessaloniki, Greece** — building modern web applications, backend systems, and feature-rich Discord apps.
+I build **modern web applications, backend systems, REST APIs, and feature-rich Discord apps** — turning ideas into reliable, maintainable software.
 
-I enjoy working across the full stack, with a deep interest in **backend architecture**, **API design**, and **databases**. I like things that work reliably and are easy to maintain — clean code over clever code.
-
-- 🔭 Currently focused on **Vue.js** and **PHP**
-- 🌱 Always learning, always shipping
-- 💬 Greek · English
-- 📫 Reach me at **me@karafylles.me**
+- 🌍 Based in **Thessaloniki, Greece** — full-time **Frontend Developer**
+- 🔭 Deeply interested in **backend architecture, API design, databases, and scalability**
+- 🌱 Currently sharpening my skills in **Vue.js** and **PHP**
+- 🚀 Always building, shipping, and learning
 
 <br/>
 
@@ -75,31 +56,42 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 ---
 
-## 📌 Projects
+## 📌 Featured projects
+
+> Pinned below 👇
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Crimeeee/Infinity-Manager">🤖 Infinity Manager</a></h3>
-      <p>Emoji management bot for Discord servers — create, organize, and manage emoji collections easily.</p>
-      <img src="https://img.shields.io/badge/JavaScript-100%25-000?style=flat-square&logo=javascript" alt="JS"/>
-      <br/>
-      <a href="https://github.com/Crimeeee/Infinity-Manager"><code>view repo →</code></a>
+      <p>A powerful and easy-to-use emoji management bot for Discord servers.</p>
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" alt="JavaScript"/>
+      <br/><br/>
+      <a href="https://github.com/Crimeeee/Infinity-Manager"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Crimeeee/MyNotes">📝 MyNotes</a></h3>
-      <p>Private notebook for every user: register, log in, then create, edit, search and delete notes.</p>
+      <p>Every user has their own private notebook: register, log in, then create, edit, search and delete notes.</p>
       <img src="https://img.shields.io/badge/PHP_8-000?style=flat-square&logo=php" alt="PHP"/>
       <img src="https://img.shields.io/badge/MariaDB-000?style=flat-square&logo=mariadb" alt="MariaDB"/>
-      <br/>
-      <a href="https://github.com/Crimeeee/MyNotes"><code>view repo →</code></a>
+      <br/><br/>
+      <a href="https://github.com/Crimeeee/MyNotes"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Crimeeee/priority_menu">🎯 Priority Manager</a></h3>
-      <p>FiveM staff tool for QBCore — give or take connection priority with named tiers, expiry, audit log, Discord webhook, and a custom red/black UI. Lua · HTML/CSS/JS.</p>
-      <a href="https://github.com/Crimeeee/priority_menu"><code>view repo →</code></a>
+      <p>FiveM staff tool for QBCore — named tiers, expiry, audit log, Discord webhook, custom red/black UI.</p>
+      <img src="https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua" alt="Lua"/>
+      <img src="https://img.shields.io/badge/HTML/CSS/JS-000?style=flat-square&logo=html5" alt="Web"/>
+      <br/><br/>
+      <a href="https://github.com/Crimeeee/priority_menu"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 More projects</h3>
+      <p>In development — coming soon.</p>
+      <br/><br/>
+      <a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
     </td>
   </tr>
 </table>
@@ -108,18 +100,18 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 ---
 
-## 📊 GitHub stats
+## 🔥 GitHub Streak & Stats
 
 <div align="center">
 
 <a href="https://github.com/Crimeeee">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crimeeee&show_icons=true&theme=aura&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crimeeee&theme=aura&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" height="165" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&border_radius=12&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Crimeeee&show_icons=true&theme=aura&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" height="165" alt="GitHub Stats"/>
 </a>
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Crimeeee/Crimeeee/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Crimeeee/Crimeeee/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -127,18 +119,16 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 ---
 
-## 📫 Connect
+## 📫 Let's connect
 
-<div align="center">
+💼 Open to: **Full Stack Developer roles** · Collaborations · Freelance
 
-<a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/Email-me@karafylles.me-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
-<a href="https://github.com/Crimeeee"><img src="https://img.shields.io/badge/GitHub-Crimeeee-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/-Email-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/Crimeeee"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"/></a>
+</p>
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-<i>Open to collaborations and Full Stack opportunities.</i>
-</div>
+<p align="center"><i>Thanks for stopping by — explore my repos or reach out to collaborate. 🚀</i></p>
