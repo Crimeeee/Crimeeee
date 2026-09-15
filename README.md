@@ -130,4 +130,4 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 <p align="center"><i>Thanks for stopping by — explore my repos or reach out to collaborate. 🚀</i></p>
 
-<p align="center"><a href="https://github.com/Crimeeee"><img src="https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1" alt="Profile Views"/></a></p>
+<p align="center"><a href="https://github.com/Crimeeee"><img src="https://hits.sh/github.com/Crimeeee.svg?label=Profile+views&color=58a6ff" alt="Profile Views"/></a></p>
