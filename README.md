@@ -1,13 +1,11 @@
 <!-- github.com/Crimeeee -->
-<div align="center">
+<div align="center" style="background:#0d1117; border:1px solid #30363d; border-radius:16px; padding:30px 20px; margin-bottom:10px;">
 
-<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%" style="border-radius: 12px;"/>
+<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%" style="border-radius:12px; margin-bottom:18px;"/>
 
-### Hey, I'm **Konstantinos** 👋
-
-**Frontend Developer** · Thessaloniki, Greece
-
-<br/>
+<h1 style="margin:0; color:#f0f6fc; font-size:2.2em;">Hey, I'm Konstantinos <span style="font-size:1.2em;">👋</span></h1>
+<p style="color:#58a6ff; margin:6px 0 4px; font-size:1.05em;"><strong>Frontend Developer</strong> · Thessaloniki, Greece</p>
+<p style="color:#8b949e; margin:0 0 12px;">Building web apps, backend systems, and Discord bots — turning ideas into reliable software.</p>
 
 [![Frontend](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
 [![Full Stack](https://img.shields.io/badge/Full_Stack-Always_Learning-2ea44f?style=for-the-badge&labelColor=0d1117)](#-about-me)
@@ -21,18 +19,18 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 🧑‍💻 About me
 
-I build **modern web applications, backend systems, REST APIs, and feature-rich Discord apps** — turning ideas into reliable, maintainable software.
+I'm a **Frontend Developer** based in **Thessaloniki, Greece** — building modern web applications, backend systems, and feature-rich Discord apps.
 
-- 🌍 Based in **Thessaloniki, Greece** — full-time **Frontend Developer**
-- 🔭 Deeply interested in **backend architecture, API design, databases, and scalability**
-- 🌱 Currently sharpening my skills in **Vue.js** and **PHP**
-- 🚀 Always building, shipping, and learning
+I enjoy working across the full stack, with a deep interest in **backend architecture**, **API design**, and **databases**. I like things that work reliably and are easy to maintain — clean code over clever code.
+
+- 🔭 Currently focused on **Vue.js** and **PHP**
+- 🌱 Always learning, always shipping
+- 💬 Greek · English
+- 📫 Reach me at **me@karafylles.me**
 
 <br/>
 
@@ -98,8 +96,7 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 <br/>
 
-<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
-</table>
+<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
 
 <br/>
 
@@ -134,6 +131,6 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
   <a href="https://github.com/Crimeeee"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
----
+<br/>
 
 <p align="center"><i>Thanks for stopping by — explore my repos or reach out to collaborate. 🚀</i></p>
