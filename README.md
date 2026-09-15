@@ -1,15 +1,20 @@
 <!-- github.com/Crimeeee -->
-<div align="center" style="background:#0d1117; border:1px solid #30363d; border-radius:16px; padding:30px 20px; margin-bottom:10px;">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%" style="border-radius:12px; margin-bottom:18px;"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Crimeeee&style=flat-square&color=58a6ff&label=Profile+Views&cache=1)](https://github.com/Crimeeee)
 
-<h1 style="margin:0; color:#f0f6fc; font-size:2.2em;">Hey, I'm Konstantinos <span style="font-size:1.2em;">👋</span></h1>
-<p style="color:#58a6ff; margin:6px 0 4px; font-size:1.05em;"><strong>Frontend Developer</strong> · Thessaloniki, Greece</p>
-<p style="color:#8b949e; margin:0 0 12px;">Building web apps, backend systems, and Discord bots — turning ideas into reliable software.</p>
+<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%"/>
 
-[![Frontend](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
+### Hey, I'm Konstantinos 👋
+
+**Frontend Developer** · Thessaloniki, Greece · <a href="mailto:me@karafylles.me">me@karafylles.me</a>
+
+I build web apps, backend systems, and Discord bots — turning ideas into reliable software.
+
+[![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
 [![Full Stack](https://img.shields.io/badge/Full_Stack-Always_Learning-2ea44f?style=for-the-badge&labelColor=0d1117)](#-about-me)
-[![Discord](https://img.shields.io/badge/Discord-Apps-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](#-about-me)
+[![Discord Apps](https://img.shields.io/badge/Discord-Apps-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](#-about-me)
+[![Based in](https://img.shields.io/badge/Thessaloniki-📍-e74c3c?style=for-the-badge&labelColor=0d1117)](#-about-me)
 
 <br/>
 
@@ -19,7 +24,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About me
 
@@ -33,8 +38,6 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 - 📫 Reach me at **me@karafylles.me**
 
 <br/>
-
----
 
 ## 🛠️ Tech stack
 
@@ -51,8 +54,6 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 </div>
 
 <br/>
-
----
 
 ## 📌 Featured projects
 
@@ -100,8 +101,6 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 
 <br/>
 
----
-
 ## 🔥 GitHub Streak & Stats
 
 <div align="center">
@@ -118,8 +117,6 @@ I enjoy working across the full stack, with a deep interest in **backend archite
 </div>
 
 <br/>
-
----
 
 ## 📫 Let's connect
 
