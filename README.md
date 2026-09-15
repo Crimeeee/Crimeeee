@@ -80,20 +80,25 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Crimeeee/priority_menu">🎯 Priority Manager</a></h3>
-      <p>FiveM staff tool for QBCore — named tiers, expiry, audit log, Discord webhook, custom red/black UI.</p>
-      <img src="https://img.shields.io/badge/Lua-000?style=flat-square&logo=lua" alt="Lua"/>
-      <img src="https://img.shields.io/badge/HTML/CSS/JS-000?style=flat-square&logo=html5" alt="Web"/>
+      <h3><a href="https://github.com/Crimeeee/GiveawayManager">🎁 GiveawayManager</a></h3>
+      <p>A simple, reliable Discord bot for running fair giveaways on community servers.</p>
+      <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" alt="JavaScript"/>
       <br/><br/>
-      <a href="https://github.com/Crimeeee/priority_menu"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
+      <a href="https://github.com/Crimeeee/GiveawayManager"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚧 More projects</h3>
-      <p>In development — coming soon.</p>
+      <h3><a href="https://github.com/Crimeeee/myPortfolio">🚀 myPortfolio</a></h3>
+      <p>Personal portfolio site built with Vue — work in progress.</p>
+      <img src="https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js" alt="Vue"/>
       <br/><br/>
-      <a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
+      <a href="https://github.com/Crimeeee/myPortfolio"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/></a>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-24292e?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/></a>
 </table>
 
 <br/>
@@ -106,7 +111,7 @@ I build **modern web applications, backend systems, REST APIs, and feature-rich 
 
 <a href="https://github.com/Crimeeee">
   <img src="https://streak-stats.demolab.com?user=Crimeeee&theme=aura&border_radius=12&hide_border=true" height="165" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Crimeeee&show_icons=true&theme=aura&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crimeeee&theme=aura" height="165" alt="GitHub Stats"/>
 </a>
 
 <br/>
