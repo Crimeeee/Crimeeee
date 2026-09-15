@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Crimeeee/Crimeeee/main/crimedev.gif" alt="Design and Development" width="100%" style="border-radius: 12px;"/>
+
 ### Hey, I'm **Konstantinos** 👋
 
 **Frontend Developer** · building for the web, one commit at a time.
@@ -7,6 +9,11 @@
 ```
 > coding — debugging — shipping — repeat
 ```
+
+[![Frontend](https://img.shields.io/badge/Frontend_Developer-Employed-0a66c2?style=for-the-badge&labelColor=0d1117)](#-about-me)
+[![Full Stack](https://img.shields.io/badge/Full_Stack-Always_Learning-2ea44f?style=for-the-badge&labelColor=0d1117)](#-about-me)
+[![Discord](https://img.shields.io/badge/Discord-Apps-5865F2?style=for-the-badge&logo=discord&labelColor=0d1117)](#-about-me)
+[![Based in](https://img.shields.io/badge/Thessaloniki-%F0%9F%93%8D-e74c3c?style=for-the-badge&labelColor=0d1117)](#-about-me)
 
 </div>
 
@@ -25,6 +32,16 @@
 
 ---
 
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/konstantinos-karafylles/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:me@karafylles.me"><img src="https://img.shields.io/badge/Email-me%40karafylles.me-e74c3c?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://github.com/Crimeeee?tab=repositories"><img src="https://img.shields.io/badge/Repos-24292e?style=for-the-badge&logo=github" alt="Repositories"/></a>
+
+</div>
+
+<br/>
 ## 🧑‍💻 About me
 
 I'm a **Frontend Developer** based in **Thessaloniki, Greece** — building modern web applications, backend systems, and feature-rich Discord apps.
